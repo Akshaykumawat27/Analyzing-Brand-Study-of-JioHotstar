@@ -8,7 +8,7 @@ Niche & Model: B2C, Digital Entertainment, Freemium
 
 Revenue: Ads, Subscriptions
 
-Competitors: Netflix, Prime Video, SonyLIV, Zee5, JioCinema
+Competitors: Netflix, Prime Video, SonyLIV
 
 SWOT: Content Variety, Affordability, Regional Support | Tiered Content, Lost Sports Rights
 
